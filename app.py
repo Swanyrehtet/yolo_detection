@@ -13,7 +13,7 @@ THINGSBOARD_HOST = "smart.agb.com.mm"
 ACCESS_TOKEN = "KEteHlV0FhZqdGNkQ3nK"  # Replace with your token
 MODEL = "yolov8x.pt"
 CAMERA_SOURCE = 0  # 0 for webcam or RTSP URL
-SECRET_KEY = "AGB@12345"  # Change this!
+SECRET_KEY = "297e47d152790ef0266bf693058fcf0e"  # Change this!
 ADMIN_USER = "admin"
 ADMIN_PASS = hashlib.sha256("AGB@12345".encode()).hexdigest()  # Hashed password
 
